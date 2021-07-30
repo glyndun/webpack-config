@@ -4,4 +4,9 @@ const products = {
     shirts: 3
 };
 
+const cart = {
+    ...products, total_price: '$90.99'
+};
+
 console.log(products)
+console.log(cart)
