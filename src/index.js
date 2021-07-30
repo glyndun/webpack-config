@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const products = {
     shoes: 2,
     cups: 5,
